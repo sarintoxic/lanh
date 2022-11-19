@@ -4,7 +4,11 @@ p {
 span {
     color: fuchsia;
 }
-img {
+.ass {
     width: 140px;
     height: 140px;
+}
+.hoa {
+    width: 100px;
+    height: 40px;
 }
